@@ -8,3 +8,8 @@ learning ionic again at ionicacademy. Here I follow the free tutorials...
 * 5 https://ionicacademy.com/store-data-inside-ionic/
 * 6 https://ionicacademy.com/style-ui-ionic/
 * 7 https://ionicacademy.com/debug-ionic-app/
+
+# Installation of final app
+npm install
+ionic lab
+
